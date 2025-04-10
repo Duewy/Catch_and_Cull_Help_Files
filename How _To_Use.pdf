@@ -1,0 +1,19 @@
+
+These links will open PDFs directly in the user's browser or preferred PDF viewer.
+
+---
+
+## 🛠 For Developers
+
+To add or update a PDF:
+
+1. Upload the new file to the repo (`main` branch, in `/docs` or root).
+2. Commit changes with a meaningful message.
+3. The hosted link will automatically update if the filename stays the same.
+
+Example:
+
+```bash
+git add how_to_use.pdf
+git commit -m "Updated main how-to guide with new screenshots"
+git push
