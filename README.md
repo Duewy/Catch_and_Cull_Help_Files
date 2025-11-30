@@ -111,16 +111,16 @@ A selection of screenshots used by the docs and for quick visual reference:
 
 ## 5. Sharing & CSV Export
 
-### 5.1 Share Catches as CSV (Android / General)
+### 5.1 Share Catches as CSV or KLM (Android / General)
 
 - **Share Catches as CSV (Android / General)**  
-  _How to choose fields, generate CSV, and share via email or other apps._  
+  _How to choose fields, generate CSV or KLM, and share via email, track on Google Earth or other apps._  
   - 📄 [`Share Catches As CSV File.docx`](Share%20Catches%20As%20CSV%20File.docx)  
   - 📕 [`Share Catches As CSV File-1.pdf`](Share%20Catches%20As%20CSV%20File-1.pdf)
 
-### 5.2 Share Catches as CSV (iOS)
+### 5.2 Share Catches as CSV or KLM (iOS)
 
-- **Share Catches as CSV (iOS)**  
+- **Share Catches as CSV or KLM (iOS)**  
   _Equivalent workflow on iOS with iOS-specific screenshots._  
   - 📄 [`iOS_Share_Catches_As_CSV File.docx`](iOS_Share_Catches_As_CSV%20File.docx)
 
