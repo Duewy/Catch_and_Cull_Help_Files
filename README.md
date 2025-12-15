@@ -22,7 +22,7 @@ If no platform is specified, you can assume the guide is valid for **both**.
 
 - **Intro to Catch and Call – Manual Mode**  
   _Overview of main screens and how to log catches manually._  
-  - 📄 [`Intro to  Catch and Call Manual Mode.docx`](Intro%20to%20%20Catch%20and%20Call%20Manual%20Mode.docx)
+  - 📄 [`Intro to  Catch and Call Manual Mode.docx`]([Intro%20to%20%20Catch%20and%20Call%20Manual%20Mode.docx](https://github.com/Duewy/Catch_and_Cull_Help_Files/blob/main/Android_iOS_Intro_Catch_and_Call_Manual_Mode.pdf))
 
 ### 1.2 Voice Control Overview
 
